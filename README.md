@@ -76,10 +76,8 @@ If you ran the `init_db.py` script, the system generated a default company ("Acm
 This project was built with strict architectural standards. Please review the included Markdown files in this directory to understand the design decisions:
 
 1. **`DEVELOPER_GUIDE.md`**: The ultimate cheat sheet explaining the codebase, the data flow, and how the heuristic anomaly detection works.
-2. **`INTERVIEW_DEFENSE_Q_AND_A.md`**: A list of 20 highly-technical questions and answers defending the architecture of this system.
-3. **`CHALLENGES_FACED.md`**: A breakdown of the engineering problems encountered during this build (e.g., API routing, immutable audit trails) and how they were solved.
-4. **`TRADEOFFS.md`**: An honest assessment of the tradeoffs made (like skipping machine learning in favor of heuristics) and how the system would evolve for production.
-5. **`MODEL.md`**: Detailed ERD and database schema breakdown.
+2. **`TRADEOFFS.md`**: An honest assessment of the tradeoffs made (like skipping machine learning in favor of heuristics) and how the system would evolve for production.
+3. **`MODEL.md`**: Detailed ERD and database schema breakdown.
 
 ---
 *Developed for the Breathe ESG evaluation.*
