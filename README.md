@@ -1,6 +1,26 @@
 # Breathe ESG - Enterprise Data Ingestion Prototype
 
+🌍 **Live Demo:** [https://breathe-esg-two-jade.vercel.app/](https://breathe-esg-two-jade.vercel.app/)
+
 This repository contains an enterprise-grade prototype for an ESG (Environmental, Social, and Governance) data ingestion pipeline. It is designed to handle messy corporate data (like SAP exports or utility bills), normalize it, and track it through a strictly auditable, immutable ledger.
+
+## 🔄 Project Workflow
+
+```mermaid
+graph TD
+    A[Analyst Uploads CSV] -->|Extract| B(RawUpload Data Lake)
+    B -->|Validate & Parse| C{Validation Service}
+    C -- Errors --> D[Flag as Failed]
+    C -- Clean --> E(Normalize Math & Units)
+    E --> F[(EmissionRecord Ledger)]
+    F -->|Review| G[Analyst Dashboard]
+    G -- Approve --> H(Locked Immutable Record)
+    G -- Reject --> I(Archived)
+    
+    style A fill:#e1effe,stroke:#3f83f8,stroke-width:2px
+    style F fill:#def7ec,stroke:#31c48d,stroke-width:2px
+    style H fill:#fdf6b2,stroke:#faca15,stroke-width:2px
+```
 
 ## 🏗️ System Architecture
 * **Backend:** Python / Django / Django REST Framework
