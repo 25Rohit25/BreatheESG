@@ -20,7 +20,7 @@ class SAPUploadView(APIView):
             return Response({'error': 'No file uploaded'}, status=status.HTTP_400_BAD_REQUEST)
             
         company, _ = Company.objects.get_or_create(company_name="Demo Enterprise")
-        data_source, _ = DataSource.objects.get_or_create(name="SAP ERP", source_type='SAP')
+        data_source, _ = DataSource.objects.get_or_create(source_type='SAP', ingestion_method='CSV', defaults={'description': 'SAP ERP'})
         
         upload = RawUpload.objects.create(
             company=company,
