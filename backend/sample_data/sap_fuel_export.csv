@@ -1,0 +1,101 @@
+MaterialDescription,Quantity,UoM,PlantCode,PostingDate,TotalCost,VendorName
+Petrol Unleaded,88519.0,UNKNOWN,Plant_A,2023-08-05,218079.28,Shell
+Petrol Unleaded,4278.55,Liters,Plant_A,2023-06-26,6905.58,Local Supplier
+Petrol Unleaded,3651.47,kWh,Plant_A,2023-11-13,6139.14,Shell
+Diesel - High Speed,301.92,Liters,Plant_A,2023-08-06,443.74,Total
+Petrol Unleaded,4600.04,L,Factory_Munich,2023-10-22,10019.07,Shell
+Diesel - High Speed,504.7,kg,HQ_London,2023-01-03,1031.31,Total
+LPG,1662.02,kg,HQ_London,2023-05-07,3364.17,Total
+Heating Oil,2554.48,Liters,Plant_B,2023-05-10,5508.81,BP
+Heating Oil,2066.0,Gal,Plant_B,2023-11-09,2664.37,BP
+Diesel - High Speed,2888.58,L,HQ_London,2023-03-24,5152.7,Total
+Diesel - High Speed,4909.71,Liters,Plant_B,2023-12-23,8813.93,Local Supplier
+LPG,1645.7,L,Plant_B,2023-01-06,3188.15,Local Supplier
+Diesel - High Speed,1117.08,kg,Factory_Munich,2023-02-01,2120.77,BP
+Heating Oil,3189.76,L,HQ_London,2023-11-03,5964.3,Shell
+Diesel - High Speed,3468.57,Gal,Plant_A,2023-08-31,5370.2,Total
+Diesel - High Speed,120480.0,Gal,Plant_B,2023-07-23,272704.38,Total
+Diesel - High Speed,56.69,Liters,Plant_A,2023-05-03,99.84,BP
+Diesel - High Speed,2119.45,L,Plant_B,2023-07-28,2819.87,Local Supplier
+Heating Oil,797.86,Gal,Plant_A,2023-05-20,1600.56,Shell
+Petrol Unleaded,1716.1,L,Plant_B,2023-05-18,2420.11,Total
+Diesel - High Speed,3773.23,kg,Plant_B,2023-02-18,5637.74,Local Supplier
+Diesel - High Speed,3229.03,Liters,Plant_B,2023-09-10,6021.13,BP
+Diesel - High Speed,199.42,L,Plant_A,2023-09-10,268.31,Shell
+LPG,3302.69,Gal,Plant_B,2023-04-25,6259.42,Local Supplier
+Diesel - High Speed,4586.86,Gal,Factory_Munich,2023-08-19,9196.67,Total
+Diesel - High Speed,3164.69,UNKNOWN,Plant_B,2023-09-24,7443.36,Local Supplier
+Petrol Unleaded,3963.65,L,HQ_London,2023-06-13,8274.82,Total
+LPG,3364.11,L,Plant_B,2023-08-29,5941.08,Local Supplier
+Heating Oil,1431.31,kg,Plant_A,2023-07-13,1987.76,BP
+Diesel - High Speed,3565.37,kg,Factory_Munich,2023-12-21,8442.95,BP
+Diesel - High Speed,265202.0,L,Plant_A,2023-07-29,352707.89,Total
+Heating Oil,2965.07,kWh,HQ_London,2023-02-14,4383.14,Shell
+Heating Oil,4902.88,kg,Factory_Munich,2023-06-17,6742.75,BP
+Diesel - High Speed,1841.59,Liters,Plant_B,2023-01-24,4562.92,Local Supplier
+Diesel - High Speed,1536.59,kWh,Factory_Munich,2023-05-14,3791.27,BP
+LPG,3922.79,Liters,Plant_B,2023-04-14,5330.48,Local Supplier
+LPG,4446.83,kWh,HQ_London,2023-11-15,8119.16,BP
+Petrol Unleaded,506.03,Liters,Plant_B,2023-04-16,1017.25,Local Supplier
+Petrol Unleaded,3752.77,L,Factory_Munich,2023-07-25,4841.65,Local Supplier
+Diesel - High Speed,3126.98,kg,HQ_London,2023-08-14,5434.35,Shell
+Diesel - High Speed,4861.18,Gal,Plant_A,2023-09-19,6940.9,Local Supplier
+Diesel - High Speed,4395.36,Liters,Plant_B,2023-01-29,7860.36,Total
+Diesel - High Speed,3549.1,Liters,Factory_Munich,2023-01-03,8289.16,Local Supplier
+Diesel - High Speed,2830.01,kg,Plant_B,2023-07-27,4241.98,BP
+Petrol Unleaded,2577.52,kWh,Plant_A,2023-01-05,5457.89,Local Supplier
+Petrol Unleaded,316131.0,Liters,HQ_London,2023-11-20,555298.48,Shell
+Diesel - High Speed,1473.64,Liters,Plant_A,2023-11-30,1915.83,Shell
+LPG,4520.65,kg,HQ_London,2023-03-03,10471.1,Total
+Heating Oil,2674.91,Gal,HQ_London,2023-05-19,6562.91,BP
+Petrol Unleaded,4570.6,kWh,Plant_B,2023-09-11,6880.51,BP
+Diesel - High Speed,491.42,UNKNOWN,Plant_A,2023-02-02,816.76,Shell
+Petrol Unleaded,3311.0,kWh,Factory_Munich,2023-01-01,7373.52,BP
+LPG,4231.66,Liters,Factory_Munich,2023-12-22,5139.9,Local Supplier
+Diesel - High Speed,2865.81,kg,Plant_B,2023-04-18,4360.95,BP
+Diesel - High Speed,2983.47,L,Factory_Munich,2023-11-25,4598.44,Local Supplier
+Petrol Unleaded,622.71,Gal,Plant_A,2023-07-23,1212.55,Shell
+Diesel - High Speed,3197.14,kWh,Plant_B,2023-11-11,5930.3,BP
+LPG,1598.64,kg,Plant_B,2023-09-29,2076.33,Total
+Diesel - High Speed,2713.99,Gal,Plant_A,2023-01-23,6768.6,Shell
+LPG,2492.27,Liters,Plant_A,2023-07-25,4847.71,Local Supplier
+Heating Oil,114313.00000000001,kg,Plant_A,2023-11-09,282273.51,BP
+Petrol Unleaded,489.69,Liters,Factory_Munich,2023-01-14,955.88,Local Supplier
+Heating Oil,2332.44,kWh,Plant_A,2023-09-30,2823.14,BP
+Petrol Unleaded,1926.61,Gal,HQ_London,2023-08-04,3951.4,Total
+Petrol Unleaded,1952.58,kg,Plant_A,2023-12-16,3930.38,Local Supplier
+LPG,4269.84,Gal,Plant_B,2023-07-10,10165.6,BP
+Heating Oil,338.04,kg,Plant_B,2023-08-25,476.45,BP
+Diesel - High Speed,92.62,Gal,HQ_London,2023-06-13,118.88,Total
+Heating Oil,945.7,kg,Factory_Munich,2023-12-10,1147.22,Shell
+Heating Oil,2260.25,Liters,Plant_A,2023-05-26,3915.97,Shell
+LPG,1244.94,Gal,HQ_London,2023-09-17,1767.95,Shell
+Petrol Unleaded,1880.29,Liters,Factory_Munich,2023-07-15,2914.38,Local Supplier
+Heating Oil,3393.3,Liters,Plant_B,2023-03-05,6700.21,Shell
+LPG,4991.89,kWh,Plant_A,2023-05-14,9417.47,Shell
+LPG,4764.33,kWh,Plant_B,2023-03-25,5819.13,BP
+LPG,29201.0,UNKNOWN,Plant_B,2023-10-19,47764.54,Total
+Heating Oil,4712.57,Gal,Plant_A,2023-03-06,9913.31,Shell
+Heating Oil,3344.87,Gal,Plant_A,2023-10-22,5044.72,BP
+LPG,2888.15,Gal,Factory_Munich,2023-03-23,6249.72,BP
+Diesel - High Speed,4966.3,Liters,Plant_B,2023-11-15,6811.27,BP
+Diesel - High Speed,2890.03,kg,HQ_London,2023-08-18,5173.15,Local Supplier
+LPG,627.41,L,Factory_Munich,2023-08-20,1010.15,Total
+Petrol Unleaded,4742.22,kWh,Factory_Munich,2023-11-14,6610.14,Shell
+Diesel - High Speed,582.51,kWh,Plant_A,2023-03-18,1200.86,Total
+LPG,465.88,L,HQ_London,2023-09-15,851.55,Local Supplier
+Petrol Unleaded,1863.1,kg,HQ_London,2023-05-15,3476.09,Shell
+LPG,662.86,Gal,Plant_B,2023-10-24,1444.42,Local Supplier
+Diesel - High Speed,1652.3,Gal,Factory_Munich,2023-12-06,3427.8,Total
+Heating Oil,4374.24,kg,HQ_London,2023-09-22,6092.78,Shell
+LPG,3726.58,Gal,Plant_A,2023-06-17,8445.71,Local Supplier
+Diesel - High Speed,71925.0,kWh,Plant_A,2023-07-16,115098.25,Total
+Petrol Unleaded,1337.67,Gal,Plant_A,2023-03-19,2110.21,Local Supplier
+Petrol Unleaded,192.25,Gal,Plant_B,2023-10-23,285.89,Total
+Heating Oil,2093.64,kWh,Plant_A,2023-05-03,3503.86,BP
+LPG,3245.18,L,HQ_London,2023-06-25,5559.16,Shell
+Petrol Unleaded,1313.79,L,Plant_B,2023-06-30,2933.05,Total
+Petrol Unleaded,796.17,Liters,Plant_A,2023-05-29,1070.14,Total
+Diesel - High Speed,3938.89,Liters,Plant_A,2023-03-14,8375.8,Shell
+Petrol Unleaded,4329.97,L,Plant_B,2023-03-06,7890.17,Local Supplier
+LPG,1152.43,kWh,Plant_B,2023-06-19,2504.75,Total
